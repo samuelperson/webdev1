@@ -1,6 +1,82 @@
 /* Write all your custom CSS below this line  */
 
+
 body {
     margin: 0;
+    background: #9ADBB3; 
 }
 
+.navigation {
+    border: 2px white;
+    padding: 20px;
+    margin: 100px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    background-color: white;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+.sub-paragraph { 
+
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+
+.intros {
+    font-family: 'Courier Prime', monospace;
+    color: white;
+    margin: auto 40px; 
+    margin-top: 40px;
+    margin-bottom: 40px; 
+    background-color: #946B45; 
+    padding: 20px 20px 20px 20px;
+    border-radius: 15px;
+    border: 5px dashed black;
+}
+
+.photo {
+    border: solid 10px white;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.buffer {
+
+    margin:10px;
+}
+header {
+    text-align: Center;
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+main {
+    text-align: center;
+}
+
+.head {
+    font-family: 'Permanent Marker', cursive;
+
+}
+.image-size {
+    max-width: 250px;
+    height: 200px;
+}
+
+.comment {
+    background-color: white;
+    border: 2px solid black;
+    margin: auto 100px;
+    margin-top: 10px;
+    padding: 20px;
+    text-align: left;
+}
+
+footer {
+
+    text-align: center;
+}

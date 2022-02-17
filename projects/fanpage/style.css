@@ -10,7 +10,7 @@ body {
     border: 2px white;
     padding: 20px;
     margin: 100px;
-    margin-top: 10px;
+    margin-top: 5px;
     margin-bottom: 40px;
     background-color: white;
     text-align: center;
@@ -18,6 +18,11 @@ body {
 
 }
 
+ .title{
+     background-color: #F5F5DC;
+     margin: 0px;
+     padding-bottom: 10px;
+ }
 .sub-paragraph { 
 
     font-family: 'Roboto Mono', monospace;
@@ -79,4 +84,9 @@ main {
 footer {
 
     text-align: center;
+    background-color: #F5F5DC;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 40px;
 }

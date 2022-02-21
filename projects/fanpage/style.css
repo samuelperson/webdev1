@@ -32,9 +32,7 @@ body {
 .intros {
     font-family: 'Courier Prime', monospace;
     color: white;
-    margin: auto 40px; 
-    margin-top: 40px;
-    margin-bottom: 40px; 
+    margin: 3em 40px; 
     background-color: #946B45; 
     padding: 20px 20px 20px 20px;
     border-radius: 15px;

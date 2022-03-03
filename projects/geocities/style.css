@@ -1,0 +1,71 @@
+body {
+    background-image: url(https://web.archive.org/web/20091020091548/http://www.geocities.com/pjdabomb_4u2c/GIFS/cateyesGOLD.gif);
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px #E1AD01 ;
+    font-family: 'Permanent Marker', cursive;
+}
+p{ 
+    font-size: 3em;
+    background-color: lightgreen;
+    Margin: 2em 2em; 
+    border: 10px dashed rebeccapurple;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgreen;
+    text-shadow: none;
+}
+
+.persian {
+    max-width: 40em;
+    height: 8em;
+    position: absolute;
+    Top: 25em;
+    Left: 10em;
+}
+
+
+.sylvester {
+    max-width: 30em;
+    height: 15em;
+    position: absolute;
+    Top: 4em;
+    Right: 10em;
+}
+
+.chess {
+    max-width: 30em;
+    height: 10em;
+    position: absolute;
+    Top: 80%;
+    Left: 45%;
+}
+
+.tabby {
+    max-width: 30em;
+    Height: 15em;
+    position: absolute; 
+    Top: 120%;
+    Left: 10%;
+}
+
+.sphynx { 
+    max-width: 30em;
+    Height: 12em;
+    position: static;
+}
+
+.siamese {
+    max-width: 30em;
+    Height: 10em;
+    position: absolute;
+    right: 10%;
+    top: 110%;
+}
+
+.blue {
+    max-width: 30em;
+    Height: 12em;
+    position: absolute;
+    left: 10%;
+    top: 1%;
+}

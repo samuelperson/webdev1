@@ -1,0 +1,19 @@
+* {margin: 0; padding: 0; box-sizing: border-box;}
+
+body {
+    background-color: #C3B1E1;
+}
+
+.header-photo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+
+}
+
+.top-photo {
+    width: 100%;
+    max-width: 300px;
+}
